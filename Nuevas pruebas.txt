@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Nuevas pruebas, volvemos a empezar y ya intentaremos hacerlo bien. “Ali-oli”Cortas ajos, 2-3, y los machacas bien en el mortero. Echas 1-2 patatas asadas en la lumbre (que está mas rico, claro) y las machacas bien con los ajos. Hay que dejarlo enfriar. Ojo, no vayas a echar la yema de huevo con eso caliente, que se cuece y lo echas a perder. Cuando se haya enfriado, echas una yema de huevo y mezclas bien.Y aquí viene la parte en la que hay que estar fuerte, porque cuando empiezas a remover, hasta que eso no liga, no pares que se corta. Empiezas a echar aceite del bueno, de garrafa de oliva, un chorrico finico, y vas removiendo, hasta que ves que va cogiendo forma, y la patata va chupando el aceite. Estará hecho cuando el brazo se te quedé vivo.  Y cuando este hecho, con el brazo que te queda vivo, cachico pan y a comer! 
 
-Y ahora debería de guardarse como tal.
+Y ahora debería de guardarse como tal.
+=======
+Nuevas pruebas, volvemos a empezar y ya intentaremos hacerlo bien. Ahora toca ha hacer un par de cambios los hacemos. Y si sigo haciendo cambios creo que algo guay va a pasar
+
+Receta del cocido, para qué se vea que están pasando otras cosas diferentes en el mundo:“Cocido y ya esta”Garbanzos  la mitad de la bolsa.En remojo toda la noche.Carnes:un muslo, hueso de espinazo de cerdo, tocino de pata negra y un rábico de cochinillos. Huesos de jamon, un par. Ternera un cuadrico, Verdura:Bajoca y carlota, patata, puerro y apioOpcional: chorizo cantimpalo y morcillaTodo crudo adentro a taparlo y ya.Y ahora sí.
+>>>>>>> master
